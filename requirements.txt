@@ -1,0 +1,10 @@
+spacy
+textblob
+pdf2image 
+pytesseract
+Pillow
+pandas
+wordcloud
+matplotlib
+streamlit
+fastapi
